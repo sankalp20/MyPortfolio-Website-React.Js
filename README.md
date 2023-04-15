@@ -1,5 +1,5 @@
 <h2 align="center">
-  My-Portfolio-Website (React.Js) <br/>
+  My-Portfolio-Website (React.Js) src="<FontAwesomeIcon icon="fa-sharp fa-solid fa-barcode" />" <br/>
 </h2>
 <div align="center">
   <img alt="Demo" src="/Sankalp.tech.png" />
