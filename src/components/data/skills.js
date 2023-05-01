@@ -1,15 +1,7 @@
 export const SkillsData = [
   {
-    type: "Front-End",
+    // type: "Front-End",
     list: [
-      {
-        name: "Google Cloud Computing",
-        icon: <i class="devicon-googlecloud-plain"></i>,
-      },
-      {
-        name: "React.js",
-        icon: <i class="devicon-react-original colored"></i>,
-      },
       {
         name: "HTML",
         icon: <i class="devicon-html5-plain colored"></i>,
@@ -23,33 +15,32 @@ export const SkillsData = [
         icon: <i class="devicon-javascript-plain colored"></i>,
       },
       {
+        name: "React.js",
+        icon: <i class="devicon-react-original colored"></i>,
+      },
+      {
         name: "Node.js",
         icon: <i class="devicon-nodejs-plain-wordmark"></i>,
       },
       {
-        name: "Angular",
-        icon: <i class="devicon-angularjs-plain"></i>,
-      },
-    ],
-  },
-  {
-    type: "Other Skills",
-    list: [
-      {
         name: "Springboot",
         icon: <i class="devicon-spring-plain"></i>,
+      },
+      {
+        name: "MySQL",
+        icon: <i class="devicon-mysql-plain"></i>,
       },
       {
         name: "Firebase",
         icon: <i class="devicon-firebase-plain colored"></i>,
       },
       {
-        name: "Bootstrap",
-        icon: <i class="devicon-bootstrap-plain colored"></i>,
+        name: "Google Cloud Computing",
+        icon: <i class="devicon-googlecloud-plain"></i>,
       },
       {
-        name: "MySQL",
-        icon: <i class="devicon-mysql-plain"></i>,
+        name: "GIT/Github",
+        icon: <i class="devicon-git-plain-wordmark"></i>,
       },
     ],
   },

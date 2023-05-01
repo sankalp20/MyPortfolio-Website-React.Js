@@ -1,17 +1,16 @@
 export const ProjectData = [
   {
     id: 1,
-    title: "Cloud-based Patient Diagnosis and Referral System",
-    about:
-      "The cloud-based patient diagnosis and referral system using Java and Google Cloud Platform will provide an efficient and reliable solution for diagnosing patients and referring them to the nearest hospital. It will help doctors provide timely treatment to patients and avoid delays in emergency cases.",
+    title: "Diagnosify",
+    about: "The cloud-based patient diagnosis and referral system.",
     tags: [
-      "Google Cloud Platform",
-      "JAVA",
-      "Springboot",
-      "MySQL Database",
-      "Hibernate ORM",
-      "Angular",
-      "Bootstrap",
+      "HTML/CSS",
+      "ReactJs",
+      "MySQL",
+      "API",
+      "Node.js",
+      "Firebase",
+      "Cloud(Storage and Database)",
     ],
     demo: "",
     github:
@@ -20,18 +19,23 @@ export const ProjectData = [
       "https://github.com/ThantZinPhyo-OP/lisandromartinez/raw/main/previews.png",
   },
   {
-    id: 1,
-    title: "VIT Emergency Medical Assistance System (VEMAS)",
+    id: 2,
+    title: "CareVIT",
     about:
-      "The project aims to create a digital platform for the ambulance service at VIT Bhopal University that enables students to request medical assistance in case of emergencies. The system will allow students to initiate a request for medical assistance, which will be sent to their proctors and doctors in the hostel for approval. Once approved, the request will be forwarded to the ambulance contact, and the ambulance will be dispatched to the location.",
-    tags: [
-      "Google Cloud Platform",
-      "JAVA",
-      "Springboot",
-      "React",
-      "Firebase Authentication",
-      "Firebase Realtime Database",
-    ],
+      "An emergency medical system for a university based on the outskirts of the city.",
+    tags: ["Java", "HTML/CSS", "Reactjs", "Springboot", "MySQL", "Firebase"],
+    demo: "",
+    github:
+      "https://github.com/sankalp20/VIT-Emergency-Medical-Assistance-System-VEMAS-",
+    image:
+      "https://github.com/ThantZinPhyo-OP/Portfolio-Website/raw/main/home.png",
+  },
+  {
+    id: 3,
+    title: "Edumate",
+    about:
+      "A react web app for teens’ education digitalization purposes during the lockdown crisis.",
+    tags: ["HTML/CSS", "Reactjs"],
     demo: "",
     github:
       "https://github.com/sankalp20/VIT-Emergency-Medical-Assistance-System-VEMAS-",
